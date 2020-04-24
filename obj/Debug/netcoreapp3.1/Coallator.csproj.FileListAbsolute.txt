@@ -1,0 +1,13 @@
+C:\Users\HP Zbook G4\source\repos\Coallator\bin\Debug\netcoreapp3.1\Coallator.exe
+C:\Users\HP Zbook G4\source\repos\Coallator\bin\Debug\netcoreapp3.1\Coallator.deps.json
+C:\Users\HP Zbook G4\source\repos\Coallator\bin\Debug\netcoreapp3.1\Coallator.runtimeconfig.json
+C:\Users\HP Zbook G4\source\repos\Coallator\bin\Debug\netcoreapp3.1\Coallator.runtimeconfig.dev.json
+C:\Users\HP Zbook G4\source\repos\Coallator\bin\Debug\netcoreapp3.1\Coallator.dll
+C:\Users\HP Zbook G4\source\repos\Coallator\bin\Debug\netcoreapp3.1\Coallator.pdb
+C:\Users\HP Zbook G4\source\repos\Coallator\obj\Debug\netcoreapp3.1\Coallator.csprojAssemblyReference.cache
+C:\Users\HP Zbook G4\source\repos\Coallator\obj\Debug\netcoreapp3.1\Coallator.csproj.CoreCompileInputs.cache
+C:\Users\HP Zbook G4\source\repos\Coallator\obj\Debug\netcoreapp3.1\Coallator.AssemblyInfoInputs.cache
+C:\Users\HP Zbook G4\source\repos\Coallator\obj\Debug\netcoreapp3.1\Coallator.AssemblyInfo.cs
+C:\Users\HP Zbook G4\source\repos\Coallator\obj\Debug\netcoreapp3.1\Coallator.dll
+C:\Users\HP Zbook G4\source\repos\Coallator\obj\Debug\netcoreapp3.1\Coallator.pdb
+C:\Users\HP Zbook G4\source\repos\Coallator\obj\Debug\netcoreapp3.1\Coallator.genruntimeconfig.cache
